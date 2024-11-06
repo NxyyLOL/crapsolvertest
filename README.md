@@ -2,7 +2,7 @@
 
 ### Install
 ```
-go get github.com/NxyyLOL/shitsolver
+go get github.com/NxyyLOL/crapsolvertest
 ```
 
 ### Usage
