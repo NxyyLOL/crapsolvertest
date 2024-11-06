@@ -9,4 +9,4 @@ go get github.com/NxyyLOL/crapsolvertest
 https://crapsolver.gitbook.io/readme/packages/golang
 
 ### Examples
-https://github.com/NxyyLOL/shitsolver/blob/main/examples/main.go
+https://github.com/NxyyLOL/crapsolvertest/blob/main/examples/main.go
